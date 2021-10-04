@@ -1,0 +1,44 @@
+[
+    {
+        "sl": 1,
+        "title": "The Complete SEO Training",
+        "description": "SEO Training (Search Engine Optimization) Learn how to get your website to the top of Google's search results.",
+        "price": 30.00,
+        "img": "https://learnup.smartdemowp.com/wp-content/uploads/2021/06/course-img-1.jpg"
+    },
+    {
+        "sl": 2,
+        "title": "Hands-On Tableau Training",
+        "description": "Tableau 2020 enables you or key decision-makers to find data patterns like customer purchase behavior",
+        "price": 60.00,
+        "img": "https://learnup.smartdemowp.com/wp-content/uploads/2021/06/course-2.jpg"
+    },
+    {
+        "sl": 3,
+        "title": "AWS Certification",
+        "description": "Amazon Web Services is the industry leader in cloud ecosystem IaaS (Infrastructure-as-a-Service)",
+        "price": 12.00,
+        "img": "https://learnup.smartdemowp.com/wp-content/uploads/2021/06/course-11.jpg"
+    },
+    {
+        "sl": 4,
+        "title": "PMP Exam Prep Seminar",
+        "description": "Tableau 2020 enables you or key decision-makers to find data patterns like customer purchase behavior",
+        "price": 29.00,
+        "img": "https://learnup.smartdemowp.com/wp-content/uploads/2021/06/course-img.jpg"
+    },
+    {
+        "sl": 5,
+        "title": "The Complete Design Course",
+        "description": "SEO Training (Search Engine Optimization) Learn how to get your website to the top of Google's search results.",
+        "price": 42.00,
+        "img": "https://learnup.smartdemowp.com/wp-content/uploads/2021/06/course-10.jpg"
+    },
+    {
+        "sl": 6,
+        "title": "The Complete Design Course",
+        "description": "The purpose of art in product design is to better understand and guide your user's emotional state as they interact with your product.",
+        "price": 42.00,
+        "img": "https://learnup.smartdemowp.com/wp-content/uploads/2021/06/course-img-3.jpg"
+    }
+]
