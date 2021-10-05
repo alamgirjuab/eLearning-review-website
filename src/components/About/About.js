@@ -3,7 +3,7 @@ import image from '../../image/edu_2.png'
 
 const About = () => {
     return (
-        <div className='container'>
+        <div className='container my-5'>
             <div className='row align-items-center'>
                 <div className='col-lg-6 col-md-6 col-sm-12'>
                     <h2>Know About E-Learn Learning Platform</h2>

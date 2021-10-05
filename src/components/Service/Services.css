@@ -1,6 +1,6 @@
-.body{
+.data{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-column-gap: 30px;
-    grid-row-gap: 27px;
+    grid-column-gap: 20px;
+    grid-row-gap: 10px;
 }

@@ -4,8 +4,12 @@ import { Col, Form, Row } from 'react-bootstrap';
 
 const Contact = () => {
     return (
-        <div>
-            <Form>
+        <div className='container'>
+            <div className='text-center py-5 my-5'>
+                <h1>Contact</h1>
+                <p>Feel free to contact us</p>
+            </div>
+            <Form className='p-5 bg-light rounded'>
                 <Row className="mb-3">
                     <Form.Group as={Col} controlId="formGridEmail">
                         <Form.Label>Email</Form.Label>
@@ -52,7 +56,7 @@ const Contact = () => {
                     <Form.Check type="checkbox" label="Check me out" />
                 </Form.Group>
 
-                <Button variant="primary" type="submit">
+                <Button className="btn btn-danger" type="submit">
                     Submit
                 </Button>
             </Form>
